@@ -24,3 +24,4 @@
 - [pointnet2_ops_lib](https://github.com/erikwijmans/Pointnet2_PyTorch/tree/master/pointnet2_ops_lib)
 - [quan-dao's answer](https://github.com/sshaoshuai/Pointnet2.PyTorch/issues/26#issuecomment-909097284)
 - [NVIDIA](https://github.com/NVIDIA/apex/blob/8b7a1ff183741dd8f9b87e7bafd04cfde99cea28/setup.py#LL81C13-L81C83)
+- [如何改变anaconda 的 gcc 版本？](https://www.zhihu.com/question/56272908/answer/1471772171)
